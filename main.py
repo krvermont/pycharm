@@ -3,4 +3,4 @@ from funcs import get_minus
 
 get_sum(5, 4)
 
-get_minus(3, 4)
+get_minus(3, 5)
